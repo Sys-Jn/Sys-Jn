@@ -81,14 +81,6 @@
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sys-Jn&theme=tokyonight&no-frame=true&row=1" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 * 💼 LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/sanyam-jain-6698a42b2/)
