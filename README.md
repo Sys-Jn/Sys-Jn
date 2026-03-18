@@ -2,9 +2,11 @@
 <h3 align="center">🚀 CSE Student | ☁️ Cloud & AI Enthusiast | 💻 Backend Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/Sys-Jn">
-    <img src="https://komarev.com/ghpvc/?username=Sys-Jn&label=Profile%20views&color=0e75b6&style=flat" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Cloud+Enthusiast;AI%2FML+Developer;Backend+Engineer;Always+Learning+New+Things&center=true&width=500&height=50">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sys-Jn&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -13,8 +15,16 @@
 
 🎓 B.Tech CSE @ RCEW (CGPA: 8.99)
 ☁️ Passionate about **Cloud Computing, AI/ML & Backend Development**
-💡 Strong in **problem solving, DSA & system design basics**
-🚀 Focused on building scalable and real-world solutions
+💡 Strong in **problem solving, DSA & scalable systems**
+🚀 Focused on building real-world, impactful solutions
+
+---
+
+## 🚀 Highlights
+
+* 🧠 Built ML models with **85–92% accuracy**
+* ⚡ Reduced latency by **~30% using Raspberry Pi deployment**
+* 📄 Published research in **AI-based Cloud Security (2025)**
 
 ---
 
@@ -23,7 +33,7 @@
 🧾 **AI-Based Threat Detection in Cloud Platforms**
 
 * Published in **STM Journal (2025)**
-* Focused on AI-driven threat detection in cloud environments
+* Focus: AI-driven threat detection in cloud environments
 
 ---
 
@@ -46,6 +56,14 @@
 
 ---
 
+## 📜 Certifications
+
+* AWS Cloud Practitioner Essentials
+* Mastering Data Structures & Algorithms (C/C++)
+* Real World Projects in Python
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -55,26 +73,33 @@
 
 ---
 
-## 🎯 Current Focus
+## 🔥 Streak Stats
 
-* ☁️ AWS & Cloud Engineering
-* 🤖 AI/ML Systems
-* 📊 Data Structures & Algorithms
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Sys-Jn&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sys-Jn&theme=tokyonight&no-frame=true&row=1" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn: [https://www.linkedin.com/in/sanyam-jain-6698a42b2/](https://www.linkedin.com/in/sanyam-jain-6698a42b2/)
+* 💼 LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/sanyam-jain-6698a42b2/)
 * 📧 Email: [samjain22october@gmail.com](mailto:samjain22october@gmail.com)
 
 ---
 
 ## ⚡ Fun Fact
 
-💡 I enjoy combining **AI + Cloud + Real-world problem solving**
+💡 I enjoy building systems that combine **AI + Cloud + Real-world problem solving**
 
 ---
 
 ⭐ *“Consistency builds expertise.”*
-
