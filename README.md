@@ -64,14 +64,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sys-Jn&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sys-Jn&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🔥 Streak Stats
 
@@ -85,13 +77,3 @@
 
 * 💼 LinkedIn: https://www.linkedin.com/in/sanyam-jain-6698a42b2/
 * 📧 Email: [samjain22october@gmail.com](mailto:samjain22october@gmail.com)
-
----
-
-## ⚡ Fun Fact
-
-💡 I enjoy building systems that combine **AI + Cloud + Real-world problem solving**
-
----
-
-⭐ *“Consistency builds expertise.”*
