@@ -13,7 +13,7 @@
 
 ## 🧠 About Me
 
-🎓 B.Tech CSE @ RCEW (CGPA: 8.99)
+🎓 B.Tech CSE @ RCEW (CGPA: 9.04)
 ☁️ Passionate about **Cloud Computing, AI/ML & Backend Development**
 💡 Strong in **problem solving, DSA & scalable systems**
 🚀 Focused on building real-world, impactful solutions
