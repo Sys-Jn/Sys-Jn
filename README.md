@@ -83,7 +83,7 @@
 
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/sanyam-jain-6698a42b2/)
+* 💼 LinkedIn: https://www.linkedin.com/in/sanyam-jain-6698a42b2/
 * 📧 Email: [samjain22october@gmail.com](mailto:samjain22october@gmail.com)
 
 ---
