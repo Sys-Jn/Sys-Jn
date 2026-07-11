@@ -5,75 +5,47 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Cloud+Enthusiast;AI%2FML+Developer;Backend+Engineer;Always+Learning+New+Things&center=true&width=500&height=50">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sys-Jn&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+---
+
+## Highlights
+ 
+- 📄 Peer-reviewed **published researcher** — *AI-Based Threat Detection in Cloud Platforms*, Journal of Network Security, 2025
+- 🎓 **9.04/10 CGPA** in Computer Science Engineering at RCEW, Jaipur
+- 🛡️ Built a **live AWS security system** implementing my own published detection methods, comparing rule-based vs. ML anomaly detection with measured precision, recall, and latency trade-offs
+- 🤖 Achieved **80–84% accuracy** on face/voice recognition models, deployed to Raspberry Pi for real-time edge inference
+- ☁️ **AWS Certified** (Cloud Practitioner Essentials) with hands-on deployment experience across Lambda, API Gateway, DynamoDB, S3, and Elastic Beanstalk
 
 ---
 
-##  About Me
-
- B.Tech CSE @ RCEW (CGPA: 9.04)
- Passionate about **Cloud Computing, AI/ML & Backend Development**
- Strong in **problem solving, DSA & scalable systems**
- Focused on building real-world, impactful solutions
+## Publication
+ 
+**AI-Based Threat Detection in Cloud Platforms** — *Journal of Network Security*, Vol. 13, Issue 3, 2025
 
 ---
 
-##  Highlights
+## Tech Stack
+ 
+**Languages:** Python, C, C++, SQL, HTML, CSS
 
-*  Built ML models with **85–92% accuracy**
-*  Reduced latency by **~30% using Raspberry Pi deployment**
-*  Published research in **AI-based Cloud Security (2025)**
+**AI / ML:** Scikit-learn, OpenCV, NumPy, Pandas, Matplotlib
 
----
+**Backend:** Flask, SQLAlchemy ORM, Flask-Login, Flask-WTF, REST APIs, Jinja2
 
-##  Publication
+**Cloud & DevOps:** AWS (Lambda, API Gateway, DynamoDB, S3, Elastic Beanstalk, IAM), Git, GitHub Actions, Linux, AWS CLI
 
- **AI-Based Threat Detection in Cloud Platforms**
-
-* Published in **STM Journal (2025)**
-* Focus: AI-driven threat detection in cloud environments
-
----
-
-##  Tech Stack
-
-###  Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,sql,html,css" />
-</p>
-
-###  Frameworks & Libraries
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flask" />
-</p>
-
-* OpenCV, NumPy, Pandas, Scikit-learn, Matplotlib
-* SQLAlchemy, Flask-Login, Flask-WTF
+**CS Fundamentals:** Data Structures & Algorithms, OOP, DBMS, Operating Systems
 
 ---
 
 ##  Certifications
 
-* AWS Cloud Practitioner Essentials
-* Mastering Data Structures & Algorithms (C/C++)
-* Real World Projects in Python
-
----
-
-
-##  Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sys-Jn&theme=tokyonight" />
-</p>
+* AWS Cloud Practitioner Essentials — AWS
+* Mastering Data Structures & Algorithms using C and C++ — Udemy
+* 100 Days of Code: Complete Python Pro Bootcamp — Udemy
 
 ---
 
 ## 🌐 Connect With Me
 
-*  LinkedIn: https://www.linkedin.com/in/jnsanyam/
+*  LinkedIn: [https://www.linkedin.com/in/jnsanyam/](https://www.linkedin.com/in/jnsanyam)
 *  Email: [samjain22october@gmail.com](mailto:samjain22october@gmail.com)
